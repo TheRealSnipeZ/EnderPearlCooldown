@@ -1,9 +1,9 @@
--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/SnipeZ/EnderPearlCoolDown
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/TheRealSnipeZ/EnderPearlCooldown
 build-by-default: true
 branches:
 - master
-projects: 
-  RedstoneX:
-      path: ""
+projects:
+  EnderPearlCooldown:
+    path: ""
 ...
-...
+
